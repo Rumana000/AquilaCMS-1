@@ -9,7 +9,7 @@ const {fs} = require('aql-utils');
 
         const envJsonContent = {
             test : {
-                db      : 'mongodb://10.0.3.160:27017/test',
+                db      : 'mongodb://10.0.4.120:27017/test',
                 devMode : {
                     mailTo  : 'testaquila@yopmail.com',
                     compile : false,
